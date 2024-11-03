@@ -3,7 +3,8 @@
 
 ## lvgl_Porting_fiv_pic  
 * Need esp-idf 5.3, esp-idf-tools-setup-offline-5.3.exe    
-* Show five pictures and switch them by touching  
+* Show five pictures and switch them by touching, core code:  
+https://github.com/weimingtom/Waveshare-ESP32-S3-Touch-LCD-4.3B_playground/blob/master/lvgl_Porting_five_pic/main/rgb_lcd_example_main.c   
 
 ## Ref  
 * https://www.waveshare.net/wiki/ESP32-S3-Touch-LCD-4.3B  
