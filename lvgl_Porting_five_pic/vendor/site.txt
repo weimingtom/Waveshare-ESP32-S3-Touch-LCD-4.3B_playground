@@ -1,0 +1,2 @@
+https://www.waveshare.net/wiki/ESP32-S3-Touch-LCD-4.3B
+https://www.waveshare.net/wiki/ESP32-S3-Touch-LCD-4.3
