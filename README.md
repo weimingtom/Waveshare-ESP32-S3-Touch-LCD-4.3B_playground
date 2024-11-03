@@ -12,10 +12,12 @@ https://github.com/weimingtom/Waveshare-ESP32-S3-Touch-LCD-4.3B_playground/blob/
 * https://www.waveshare.net/wiki/ESP32-S3-Touch-LCD-4.3B  
 * (main ref code) https://www.waveshare.net/wiki/ESP32-S3-Touch-LCD-4.3  
 
-## SquareLine 1.4.2 project  
-* see lvgl_Porting_five_pic/vendor/hello1_v2.7z  
+## SquareLine Studio 1.4.2 project  
+* see lvgl_Porting_five_pic/vendor/hello1_v2.7z
+* https://squareline.io  
 
 ## Extend code section (for ESP32-S3 N16R8 16M Flash size)      
+* (TODO) Change it by executing 'idf.py menuconfig'     
 * see lvgl_Porting_five_pic/partitions.csv
 * see lvgl_Porting_five_pic/sdkconfig
 ```
